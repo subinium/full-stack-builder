@@ -4,7 +4,9 @@
 
 **A curated list of AI-powered tools for full-stack development**
 
-[AI Coding CLI](#ai-coding-cli) • [AI-Powered IDEs](#ai-powered-ides) • [Video Generation](#video-generation) • [Digital Humans](#digital-humans)
+![Views](https://komarev.com/ghpvc/?username=subinium&repo=full-stack-builder&label=Views&color=brightgreen)
+
+[AI Coding CLI](#ai-coding-cli) • [AI-Powered IDEs](#ai-powered-ides) • [AI App Builders](#ai-app-builders) • [Image Generation](#image-generation) • [Video Generation](#video-generation) • [Audio Generation](#audio-generation) • [Digital Humans](#digital-humans)
 
 </div>
 
@@ -14,7 +16,10 @@
 
 - [AI Coding CLI](#ai-coding-cli)
 - [AI-Powered IDEs](#ai-powered-ides)
+- [AI App Builders](#ai-app-builders)
+- [Image Generation](#image-generation)
 - [Video Generation](#video-generation)
+- [Audio Generation](#audio-generation)
 - [Digital Humans](#digital-humans)
 
 ---
@@ -38,6 +43,20 @@
 | [Windsurf](https://windsurf.com/) | Codeium's agentic AI code editor |
 | [Antigravity](https://antigravity.google/) | Google's agent-first AI development platform |
 
+## AI App Builders
+
+| Tool | Description |
+|------|-------------|
+| [v0](https://v0.app/) | Vercel's AI-powered UI and app generator |
+| [Lovable](https://lovable.dev/) | AI full-stack app builder with real-time code generation |
+
+## Image Generation
+
+| Tool | Description |
+|------|-------------|
+| [Midjourney](https://www.midjourney.com/) | High-quality AI image generation via Discord and web |
+| [Nano Banana](https://gemini.google.com/) | Google's AI image generation and editing in Gemini |
+
 ## Video Generation
 
 | Tool | Description |
@@ -45,6 +64,13 @@
 | [Sora](https://sora.com/) | OpenAI's text-to-video AI generation model |
 | [Runway](https://runwayml.com/) | AI-powered video creation and editing platform |
 | [Kling](https://klingai.com/) | Kuaishou's high-quality AI video generation tool |
+
+## Audio Generation
+
+| Tool | Description |
+|------|-------------|
+| [Suno](https://suno.com/) | AI music and song generation from text prompts |
+| [ElevenLabs](https://elevenlabs.io/) | AI voice synthesis and text-to-speech platform |
 
 ## Digital Humans
 
