@@ -6,7 +6,7 @@
 
 ![Views](https://komarev.com/ghpvc/?username=subinium&repo=full-stack-builder&label=Views&color=brightgreen)
 
-[AI Coding CLI](#ai-coding-cli) • [AI-Powered IDEs](#ai-powered-ides) • [AI App Builders](#ai-app-builders) • [Image Generation](#image-generation) • [Video Generation](#video-generation) • [Audio Generation](#audio-generation) • [Digital Humans](#digital-humans)
+[AI Coding CLI](#ai-coding-cli) • [AI-Powered IDEs](#ai-powered-ides) • [AI App Builders](#ai-app-builders) • [Image Generation](#image-generation) • [3D Generation](#3d-generation) • [Video Generation](#video-generation) • [Audio Generation](#audio-generation) • [Digital Humans](#digital-humans)
 
 </div>
 
@@ -18,6 +18,7 @@
 - [AI-Powered IDEs](#ai-powered-ides)
 - [AI App Builders](#ai-app-builders)
 - [Image Generation](#image-generation)
+- [3D Generation](#3d-generation)
 - [Video Generation](#video-generation)
 - [Audio Generation](#audio-generation)
 - [Digital Humans](#digital-humans)
@@ -57,6 +58,12 @@
 | [Midjourney](https://www.midjourney.com/) | High-quality AI image generation via Discord and web |
 | [Nano Banana](https://gemini.google.com/) | Google's AI image generation and editing in Gemini |
 
+## 3D Generation
+
+| Tool | Description |
+|------|-------------|
+| [Meshy](https://www.meshy.ai/) | AI-powered 3D model and texture generation from text and images |
+
 ## Video Generation
 
 | Tool | Description |
@@ -64,6 +71,7 @@
 | [Sora](https://sora.com/) | OpenAI's text-to-video AI generation model |
 | [Runway](https://runwayml.com/) | AI-powered video creation and editing platform |
 | [Kling](https://klingai.com/) | Kuaishou's high-quality AI video generation tool |
+| [Higgsfield](https://higgsfield.ai/) | AI video generation with human motion and expression control |
 
 ## Audio Generation
 
